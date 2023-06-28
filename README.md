@@ -3,7 +3,6 @@
 
 
 - 🌱 I’m currently learning Flutter Dart 
-- 🤔 I’m looking for my first job
 - 💬 Ask me about Mobile Dev
 - ⚡ Fun fact: I exist
 
