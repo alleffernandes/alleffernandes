@@ -7,14 +7,18 @@
 - 🎓 Analise e Desenvolvimneto de Sistemas.
 
 <div style="display: inline_block"><br>
-  <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Rafa-Js" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-  <img align="center" alt="Rafa-Js" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="deu bigode" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>
-  <img align="center" alt="deu bigode" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  <img align="center" alt="deu bigode" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img align="center" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Rafa-Js" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+  <img align="center" alt="Rafa-Js" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="deu bigode" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>
+  <img align="center" alt="deu bigode" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  <img align="center" alt="deu bigode" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </div>
           
 ##
-
-[![Allef's Stats](https://github-readme-stats.vercel.app/api?username=alleffernandes&&show_icons=true&title_color=00ffffcon_color=00ffff&text_color=#FF5733&bg_color=151515)](https://github.com/alleffernandes)
+<div>
+  <a
+    href="https://github.com/alleffernandes">
+    <img src="https://github-readme-stats.vercel.app/api?username=alleffernandes&theme=dark&shaw_icons=true">
+  </a>
+</div>
