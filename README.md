@@ -3,7 +3,6 @@
 - 🎯 Sou desenvolvedor de aplicativos Mobile.
 - 📱 Aprendendo novas tecnologias.
 - ⌛ Buscando eficiência.
-- 🖥️ Dart, Flutter & kotlin.
 - 🎓 Análise e Desenvolvimnento de Sistemas.
 
 <div style="display: inline_block"><br>
