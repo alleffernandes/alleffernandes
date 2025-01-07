@@ -1,9 +1,9 @@
 ### Olá você👋😀
 
-- 🎯 Sou desenvolvedor de aplicativos Mobile.
-- 📱 Aprendendo novas tecnologias.
-- ⌛ Buscando eficiência.
-- 🎓 Análise e Desenvolvimnento de Sistemas.
+- 🎯 Software Engineer.
+- 📱 Multiplatform App Development.
+- ⌛ Efficiency.
+- 🎓 T.I.
 
 <div style="display: inline_block"><br>
   <img align="center" height="40" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
