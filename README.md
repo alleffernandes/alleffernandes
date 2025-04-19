@@ -1,9 +1,9 @@
 <h1 align="center">👨‍💻 Desenvolvedor</h1>
 
 <p align="center">
-  💼 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong><br>
-  📱 Desenvolvedor <strong>Flutter</strong><br>
-  💙 Apaixonado por <strong>Dart</strong><br>
+  💼 <strong>Análise e Desenvolvimento de Sistemas</strong><br>
+  📱 <strong>Desenvolvedor Flutter</strong><br>
+  💙 <strong>Apaixonado por Dart e SoulsLike ⚔️</strong><br>
 </p>
 
 <p align="center">
