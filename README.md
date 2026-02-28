@@ -1,66 +1,59 @@
-<div align="center">
+<h1 align="center">Allef Fernandes</h1>
 
-  <br>
+<p align="center">
+  Desenvolvedor focado em Flutter • Mobile • Arquitetura Limpa
+</p>
 
-  <table>
-    <tr>
-      <td>
-        <h1>📱 Flutter Developer | UI/UX Enthusiast</h1>
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bloc-5C2D91?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-  <p>Transformando café em aplicativos performáticos, fluidos e visualmente impactantes.</p>
+---
 
-  <a href="alleffernandes99@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="linkedin.com/in/alleffernandes">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="github.com/alleffernandes">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
+<h2>🚀 Sobre</h2>
 
-<hr />
+<p>
+Construo aplicações mobile utilizando Flutter com foco em organização,
+escalabilidade e boas práticas de arquitetura.
+</p>
 
-## ⚡ Um pouco sobre mim
+---
 
-- 🚀 Atualmente focado em **Arquitetura Limpa (Clean Architecture)** e **Gerenciamento de Estado (Bloc/Cubit)**.
-- 🛠️ Experiência em integrar APIs REST para soluções escaláveis.
-- 🎨 Apaixonado por transformar protótipos do Figma em código fiel e interativo.
-- ✍️ Nas horas vagas, estudo **Dart** e **Flutter** a fundo e contribuo com a comunidade.
+<h2>🧠 Interesses Técnicos</h2>
 
-<hr />
+<ul>
+  <li>Arquitetura limpa aplicada ao Flutter</li>
+  <li>Gerenciamento de estado com Cubit / Bloc</li>
+  <li>Integração com APIs REST</li>
+  <li>Performance e refatoração de código</li>
+  <li>Aplicações com Inteligência Artificial</li>
+</ul>
 
-## 🛠️ Meu Widget Tree (Tech Stack)
+---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clean%20Architecture-Critical-green?style=flat-square" />
-</div>
+<h2>📊 Estatísticas</h2>
 
-<hr />
+<p align="center">
+  <img 
+    height="165" 
+    src="https://github-readme-stats.vercel.app/api?username=alleffernandes&show_icons=true&theme=tokyonight&hide_border=true" 
+  />
+  <img 
+    height="165" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alleffernandes&layout=compact&theme=tokyonight&hide_border=true" 
+  />
+</p>
 
-## 📊 Minhas Estatísticas
+---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO-GITHUB]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO-GITHUB]&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+<h2>🔥 Atividade</h2>
 
-<hr />
-
-<div align="center">
-  <p><i>"A melhor maneira de prever o futuro é codificá-lo."</i></p>
-  <img src="https://raw.githubusercontent.com/DeividXavier/DeividXavier/master/images/flutter.gif" width="100px">
-  <br>
-  <strong>Interessado em trabalhar comigo? Vamos conversar!</strong>
-</div>
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=alleffernandes&theme=tokyonight&hide_border=true" 
+  />
+</p>
