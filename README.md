@@ -1,32 +1,40 @@
 <h1 align="center">Allef Fernandes</h1>
 
 <p align="center">
-  Desenvolvedor focado em Flutter • Mobile • Arquitetura Limpa
+  Desenvolvedor focado em Flutter, construindo aplicações mobile organizadas e escaláveis.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bloc-5C2D91?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<hr/>
 
----
+<h2>🚀 Stack Principal</h2>
 
-<h2>🚀 Sobre</h2>
+<ul>
+  <li><strong>Flutter</strong></li>
+  <li><strong>Dart</strong></li>
+  <li>Gerenciamento de estado (Cubit / Bloc)</li>
+  <li>Consumo de APIs</li>
+  <li>Git & GitHub</li>
+</ul>
 
-<p>
-Construo aplicações mobile utilizando Flutter com foco em organização,
-escalabilidade e boas práticas de arquitetura.
-</p>
-
----
-
-<h2>🧠 Interesses Técnicos</h2>
+<h2>🧠 Interesses</h2>
 
 <ul>
   <li>Arquitetura limpa aplicada ao Flutter</li>
-  <li>Gerenciamento de estado com Cubit / Bloc</li>
-  <li>Integração com APIs REST</li>
-  <li>Performance e refatoração de código</li>
+  <li>Padrões de projeto</li>
+  <li>Performance e organização de código</li>
+  <li>Aplicações com Inteligência Artificial</li>
+  <li>Projetos que resolvem problemas reais</li>
 </ul>
+
+<h2>💡 Foco</h2>
+
+<p>
+  Construir aplicações mobile bem estruturadas, priorizando clareza,
+  escalabilidade e evolução contínua.
+</p>
+
+<hr/>
+
+<p align="center">
+  📫 Conecte-se comigo no GitHub
+</p>
