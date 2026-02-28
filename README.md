@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=02569B&height=200&section=header&text=Olá,%20sou%20[Seu%20Nome]&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
   <br>
 
@@ -13,13 +12,13 @@
 
   <p>Transformando café em aplicativos performáticos, fluidos e visualmente impactantes.</p>
 
-  <a href="mailto:[alleffernandes99@gmail.com]">
+  <a href="alleffernandes99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="[linkedin.com/in/alleffernandes]">
+  <a href="linkedin.com/in/alleffernandes">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="[github.com/alleffernandes]">
+  <a href="github.com/alleffernandes">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
   </a>
 </div>
